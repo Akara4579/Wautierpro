@@ -3935,6 +3935,9 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tdlUrDv.jpeg" group-title="NASIONAL" tvg-id="ANTV",🆕Antv (🚀8826 VS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaaFlGWmxCbzV1aCsvOHZXbm5XZGdjQTdOTDRMMEJJWUhlRFVsUHl6OU5RLw
 
 
 GTV COVER https://i.imgur.com/oZl4oNH.jpeg
@@ -8964,8 +8967,6 @@ COVER BARU 2026 https://i.imgur.com/nISWTAB.jpeg
 🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️
 TES BARU
 🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🆕Sky Sport PL
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/Liga%20Inggris%201.m3u8
 
 🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️
 TES BARU
@@ -8974,68 +8975,60 @@ TES BARU
 -->EVENT REAL YG DIATAS
 ___ INI ENGGA YA---sss
 =================================================================================================================================================================================
-+++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++  Crystal Palace vs Manchester City+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++  ipswich Town vs Liverpool+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Aston Villa vs Arsenal (🔥USA NETWORK )
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:0E:16:C3&stream=91882&extension=ts&play_token=RVygKCNvgb
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ Aston Villa vs Arsenal  (🔥 Mono Max 1)
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:06:23:D3&stream=1660493&extension=ts&play_token=c0C9I4H9oR
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ Aston Villa vs Arsenal   (FUBO SPORTS 1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ ipswich Town vs Liverpool  (FUBO SPORTS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 #http://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Aston Villa vs Arsenal   (BEIN SPORTS 1)
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1917224&extension=ts&play_token=jAKn26NnnQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ ipswich Town vs Liverpool Hub Premier 1
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065802&extension=ts&play_token=KI0Dwrrojh
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Aston Villa vs Arsenal  (🔥 BEIN SPORTS 2)
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1917223&extension=ts&play_token=QpjrV5xecY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ ipswich Town vs Liverpool Nova Sports EPL
+http://nexusconnects.org:80/play/live.php?mac=00:1B:79:42:10:51&stream=1879&extension=ts&play_token=XNXCpIftYx
 
-#EXTINF:-1#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ Aston Villa vs Arsenal (🔥Star Sports select 1 HD)
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=155972&extension=ts&play_token=G4V3c1Jep4
+
 
 =================================================================================================================================================================================
-+++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++Tottenham Hotspur vs Newcastle United+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++MASTER+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
-#EXTINF:-1#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS", 🔥Star Sports select 1 HD
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=155972&extension=ts&play_token=G4V3c1Jep4
+#EXTINF:-1 tvg-id="UK..SKY.SPORTS.PREMIER.LEAGUE.HEVC.HD.us" tvg-name="┃UK┃ SKY SPORTS PREMIER LEAGUE HEVC HD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ SKY SPORTS PREMIER LEAGUE HEVC HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312048.m3u8
+#EXTINF:-1 tvg-id="UK..SKY.SPORTS.PREMIER.LEAGUE.SD.us" tvg-name="┃UK┃ SKY SPORTS PREMIER LEAGUE SD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ SKY SPORTS PREMIER LEAGUE SD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312239.m3u8
+
+#EXTINF:-1 tvg-id="UK..SKY.SPORTS.MAIN.EVENTS.HEVC.HD.us" tvg-name="┃UK┃ SKY SPORTS MAIN EVENTS HEVC HD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐SKY SPORTS MAIN EVENTS HEVC HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312049.m3u8
+
+#EXTINF:-1 tvg-id="UK..SKY.SPORTS.MAIN.EVENT.HD.us" tvg-name="┃UK┃ SKY SPORTS MAIN EVENT HD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐SKY SPORTS MAIN EVENT HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312176.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ Hub Premier 1
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065802&extension=ts&play_token=KI0Dwrrojh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ Hub Premier 2
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065803&extension=ts&play_token=f1Sj0jPTQq
 
 
-#EXTINF:-1#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS", 🔥Star Sports select 2 HD
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=155730&extension=ts&play_token=nW4tzTDHhx
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Hub Premier 3
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065801&extension=ts&play_token=3itVpZavMD
 
 
-#EXTINF:-1#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS", 🔥Star Sports select 2 HD
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:06:23:D3&stream=1114584&extension=ts&play_token=W1vo9UWbWX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ Hub Premier 4
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065800&extension=ts&play_token=AJOBpvWctv
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Hub Premier 5
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065799&extension=ts&play_token=na9Tc2ybzS
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS", 🔥USA NETWORK 
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:0E:16:C3&stream=91882&extension=ts&play_token=RVygKCNvgb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ StarSports Selet 1
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373202&extension=ts&play_token=AT6eatSl46
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS", 🔥 Mono Max 1
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:06:23:D3&stream=1660493&extension=ts&play_token=c0C9I4H9oR
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS", 🔥 Mono Max 2
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:06:23:D3&stream=1660492&extension=ts&play_token=BGcB3qW59F
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS", 🔥 Mono Max 3
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:06:23:D3&stream=1660491&extension=ts&play_token=K1Ch7KdgwF
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS", 🔥Mono Max 4
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:06:23:D3&stream=1660490&extension=ts&play_token=VPIaNHnsyk
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS", 🔥Play Sports 66
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:06:23:D3&stream=1660489&extension=ts&play_token=zOz7meeWi6
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥 BEIN SPORTS 1
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1917224&extension=ts&play_token=jAKn26NnnQ
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔥 BEIN SPORTS 2
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1917223&extension=ts&play_token=QpjrV5xecY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐StarSports Selet 2
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373201&extension=ts&play_token=J4GC1hp8Ut
 
 
 
@@ -9047,55 +9040,11 @@ http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1917223&ex
 #EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905817&extension=ts
 
-#EXTINF:-1 tvg-id="deskysportpremierleague4k" tvg-name="DE - SKY SPORT PREMIER LEAGUE 4K" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",✅SKY SPORT PREMIER LEAGUE DE
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1030402.ts
-#EXTINF:-1 tvg-id="deskysportpremierleague4k²" tvg-name="DE - SKY SPORT PREMIER LEAGUE 4K²" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",✅SKY SPORT PREMIER LEAGUE DE
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1140272.ts
-
-#EXTINF:-1 tvg-id="ukhubpremier01fhd" tvg-name="UK - HUB PREMIER 01 FHD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑ ✅(HUB PREMIER 01 FHD)
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/324806.ts
-
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",USA NETWORK
-https://restream-live.realiptv.to/MotherOfPins3/8746645/3694
-
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",(ESPN 1 Brazil HD)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/803
-#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",(ESPN 4 Brazil HD)
-https://restream-live.realiptv.to/MotherOfPins3/8746645/803
-
 #EXTINF:-1 tvg-id="exyuarenasport1hdhr" tvg-name="EXYU - ARENA SPORT 1 HD (HR)" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑(ARENA 1 KROASIA)✅
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/74897.ts
 
 #EXTINF:-1 tvg-id="exyuarenasport1hdsr" tvg-name="EXYU - ARENA SPORT 1 HD (SR)" tvg-logo=""https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑(ARENA 1 SERBIA)✅
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/74893.ts
-
-#EXTINF:-1 tvg-id="Champions.TV.5.id" tvg-name="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",✅LIVE 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=dash
-#https://pidio.becek.workers.dev/9182.mpd
-#https://aspaltvpasti.top/11111/9182.mpd
-
-#EXTINF:-1 tvg-id="Champions.TV.6.id" tvg-name="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",✅ LIVE 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash
-#https://pidio.becek.workers.dev/9183.mpd
-#https://aspaltvpasti.top/11111/9183.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
-https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑ (BST) ✅
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep4.m3u8
 
 #EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",MUTV ✅
 https://get.perfecttv.net/mutv.mpd
@@ -11538,171 +11487,6 @@ http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917426&
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8AC95A292DAC655584BC87713A79F841
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917206&extension=ts&play_token=DviX9Fd53r
-#EXTINF:-1 tvg-id="646975" group-title="Live FA, League Cup" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/BEINSPORTS3.png",08/08 09:00 PM | West Ham United vs Portsmouth (AU| BEIN SPORTS 3 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A9EF0EB82CC01CCC24B56E6F8F2D96FF
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=646975&extension=ts&play_token=Q8Ro4EL4Pm
-#EXTINF:-1 tvg-id="646975" group-title="Live FA, League Cup" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/BEINSPORTS3.png",08/08 09:00 PM | West Ham United vs Portsmouth (AU| BEIN SPORTS 3 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 84321A6E474ED71836A46D5E711B3425
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=646975&extension=ts&play_token=gSEw8qLMDs
-#EXTINF:-1 tvg-id="1917300" group-title="Live FA, League Cup" tvg-logo="http://51.158.145.100/picons/logos/logos/1917300.png",08/08 09:00 PM | West Ham United vs Portsmouth (HR| ARENA SPORT 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AC95A292DAC655584BC87713A79F841
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917300&extension=ts&play_token=TRAZwFsqqR
-#EXTINF:-1 tvg-id="1862038" group-title="Live FA, League Cup" tvg-logo="https://picons.cmshulk.com/picons/arenasport1.png",08/08 09:00 PM | West Ham United vs Portsmouth (HR| ARENA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AC95A292DAC655584BC87713A79F841
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1862038&extension=ts&play_token=yE5cWwWv0W
-#EXTINF:-1 tvg-id="110737" group-title="Live FA, League Cup" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT1.png",08/08 09:00 PM | West Ham United vs Portsmouth (HR| ARENA SPORT 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AC95A292DAC655584BC87713A79F841
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=110737&extension=ts&play_token=rcAALR0EyC
-#EXTINF:-1 tvg-id="1917270" group-title="Live FA, League Cup" tvg-logo="http://51.158.145.100/picons/logos/logos/1917270.png",08/08 09:00 PM | West Ham United vs Portsmouth (SI| ARENA SPORT 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AC95A292DAC655584BC87713A79F841
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917270&extension=ts&play_token=gOUmX2vNAv
-#EXTINF:-1 tvg-id="1862130" group-title="Live FA, League Cup" tvg-logo="http://picons.cmshulk.com/picons/arenasport3.png",08/08 09:00 PM | West Ham United vs Portsmouth (SI| ARENA SPORT 3 ⱽᴵᴾ ᴿᴬᵂ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AC95A292DAC655584BC87713A79F841
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1862130&extension=ts&play_token=M7j7Ms0GLD
-#EXTINF:-1 tvg-id="1294764" group-title="Live FA, League Cup" tvg-logo="http://51.158.145.100/picons/logos/bein/1294764.png",08/08 09:00 PM | West Ham United vs Portsmouth (AR| BEIN SPORTS 1 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A9EF0EB82CC01CCC24B56E6F8F2D96FF
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1294764&extension=ts&play_token=ne4vNwMeyq
-#EXTINF:-1 tvg-id="1330417" group-title="Live FA, League Cup" tvg-logo="http://51.158.145.100/picons/logos/bein/1330417.png",08/08 09:00 PM | West Ham United vs Portsmouth (AR| BEIN SPORTS 1 FRANCE FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A9EF0EB82CC01CCC24B56E6F8F2D96FF
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1330417&extension=ts&play_token=7UQqImSxaf
-#EXTINF:-1 tvg-id="1330433" group-title="Live FA, League Cup" tvg-logo="http://51.158.145.100/picons/logos/bein/1330433.png",08/08 09:00 PM | West Ham United vs Portsmouth (AR| BEIN SPORTS 1 HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A9EF0EB82CC01CCC24B56E6F8F2D96FF
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1330433&extension=ts&play_token=RQBcI7BXRW
-#EXTINF:-1 tvg-id="1330437" group-title="Live FA, League Cup" tvg-logo="http://51.158.145.100/picons/logos/bein/1330437.png",08/08 09:00 PM | West Ham United vs Portsmouth (AR| BEIN SPORTS 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A9EF0EB82CC01CCC24B56E6F8F2D96FF
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1330437&extension=ts&play_token=ZvZPa4BnzQ
-#EXTINF:-1 tvg-id="1330451" group-title="Live FA, League Cup" tvg-logo="http://51.158.145.100/picons/logos/bein/1330451.png",08/08 09:00 PM | West Ham United vs Portsmouth (AR| BEIN SPORTS 1 FRANCE HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A9EF0EB82CC01CCC24B56E6F8F2D96FF
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1330451&extension=ts&play_token=Af6DXAX9qO
-#EXTINF:-1 tvg-id="1294764" group-title="Live FA, League Cup" tvg-logo="http://51.158.145.100/picons/logos/bein/1294764.png",08/08 09:00 PM | West Ham United vs Portsmouth (AR| BEIN SPORTS 1 FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 84321A6E474ED71836A46D5E711B3425
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1294764&extension=ts&play_token=JfcXdo5jYu
-#EXTINF:-1 tvg-id="1330417" group-title="Live FA, League Cup" tvg-logo="http://51.158.145.100/picons/logos/bein/1330417.png",08/08 09:00 PM | West Ham United vs Portsmouth (AR| BEIN SPORTS 1 FRANCE FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 84321A6E474ED71836A46D5E711B3425
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1330417&extension=ts&play_token=H4ien75Dz4
-#EXTINF:-1 tvg-id="1330433" group-title="Live FA, League Cup" tvg-logo="http://51.158.145.100/picons/logos/bein/1330433.png",08/08 09:00 PM | West Ham United vs Portsmouth (AR| BEIN SPORTS 1 HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 84321A6E474ED71836A46D5E711B3425
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1330433&extension=ts&play_token=vxvwBQOSNY
-#EXTINF:-1 tvg-id="1330437" group-title="Live FA, League Cup" tvg-logo="http://51.158.145.100/picons/logos/bein/1330437.png",08/08 09:00 PM | West Ham United vs Portsmouth (AR| BEIN SPORTS 1 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 84321A6E474ED71836A46D5E711B3425
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1330437&extension=ts&play_token=RbqmwN0L9Q
-#EXTINF:-1 tvg-id="1330451" group-title="Live FA, League Cup" tvg-logo="http://51.158.145.100/picons/logos/bein/1330451.png",08/08 09:00 PM | West Ham United vs Portsmouth (AR| BEIN SPORTS 1 FRANCE HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 84321A6E474ED71836A46D5E711B3425
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1330451&extension=ts&play_token=KWNYxmfokT
-#EXTINF:-1 tvg-id="1917206" group-title="Live FA, League Cup" tvg-logo="http://51.158.145.100/picons/logos/arabic/1917206.png",08/08 09:00 PM | West Ham United vs Portsmouth (AR| BEIN SPORT 1 4K)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AC95A292DAC655584BC87713A79F841
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917206&extension=ts&play_token=DviX9Fd53r
-#EXTINF:-1 tvg-id="1917242" group-title="Live FA, League Cup" tvg-logo="http://51.158.145.100/picons/logos/logos/1917242.png",08/08 09:00 PM | West Ham United vs Portsmouth (BG| DIEMA SPORT 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AC95A292DAC655584BC87713A79F841
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917242&extension=ts&play_token=EQqNin0DwS
-#EXTINF:-1 tvg-id="1917259" group-title="Live FA, League Cup" tvg-logo="http://51.158.145.100/picons/logos/logos/1917259.png",08/08 09:00 PM | West Ham United vs Portsmouth (RO| DIGI SPORT 2 HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AC95A292DAC655584BC87713A79F841
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917259&extension=ts&play_token=PyTqhnboGg
-#EXTINF:-1 tvg-id="984663" group-title="Live FA, League Cup" tvg-logo="http://103.176.90.92/images/984663.png",08/08 09:00 PM | West Ham United vs Portsmouth (DE| SKY SPORT PREMIER LEAGUE HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A9EF0EB82CC01CCC24B56E6F8F2D96FF
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=984663&extension=ts&play_token=eksrKqjARt
-#EXTINF:-1 tvg-id="971711" group-title="Live FA, League Cup" tvg-logo="http://103.176.90.92/images/971711.png",08/08 09:00 PM | West Ham United vs Portsmouth (DE| SKY SPORT PREMIER LEAGUE FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A9EF0EB82CC01CCC24B56E6F8F2D96FF
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=971711&extension=ts&play_token=jQttpJHZFj
-#EXTINF:-1 tvg-id="1235927" group-title="Live FA, League Cup" tvg-logo="http://103.176.90.92/images/1235927.png",08/08 09:00 PM | West Ham United vs Portsmouth (DE| SKY SPORT PREMIER LEAGUE FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A9EF0EB82CC01CCC24B56E6F8F2D96FF
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1235927&extension=ts&play_token=pGrZDTm7xB
-#EXTINF:-1 tvg-id="1235920" group-title="Live FA, League Cup" tvg-logo="http://103.176.90.92/images/1235920.png",08/08 09:00 PM | West Ham United vs Portsmouth (DE| SKY SPORT PREMIER LEAGUE HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer A9EF0EB82CC01CCC24B56E6F8F2D96FF
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1235920&extension=ts&play_token=Vfge862MDx
-#EXTINF:-1 tvg-id="984663" group-title="Live FA, League Cup" tvg-logo="http://103.176.90.92/images/984663.png",08/08 09:00 PM | West Ham United vs Portsmouth (DE| SKY SPORT PREMIER LEAGUE HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 84321A6E474ED71836A46D5E711B3425
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=984663&extension=ts&play_token=eG2QilzFky
-#EXTINF:-1 tvg-id="971711" group-title="Live FA, League Cup" tvg-logo="http://103.176.90.92/images/971711.png",08/08 09:00 PM | West Ham United vs Portsmouth (DE| SKY SPORT PREMIER LEAGUE FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 84321A6E474ED71836A46D5E711B3425
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=971711&extension=ts&play_token=Aytx13IQPS
-#EXTINF:-1 tvg-id="1235927" group-title="Live FA, League Cup" tvg-logo="http://103.176.90.92/images/1235927.png",08/08 09:00 PM | West Ham United vs Portsmouth (DE| SKY SPORT PREMIER LEAGUE FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 84321A6E474ED71836A46D5E711B3425
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1235927&extension=ts&play_token=hjHdO3VILP
-#EXTINF:-1 tvg-id="1235920" group-title="Live FA, League Cup" tvg-logo="http://103.176.90.92/images/1235920.png",08/08 09:00 PM | West Ham United vs Portsmouth (DE| SKY SPORT PREMIER LEAGUE HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 84321A6E474ED71836A46D5E711B3425
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1235920&extension=ts&play_token=ts87adErYb
-#EXTINF:-1 tvg-id="1917546" group-title="Live FA, League Cup" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png",08/08 09:00 PM | West Ham United vs Portsmouth (DE| SKY SPORT PREMIER LEAGUE HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AC95A292DAC655584BC87713A79F841
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917546&extension=ts&play_token=6XDn9Vr0zV
-#EXTINF:-1 tvg-id="984663" group-title="Live FA, League Cup" tvg-logo="http://103.176.90.92/images/984663.png",08/08 09:00 PM | West Ham United vs Portsmouth (DE| SKY SPORT PREMIER LEAGUE HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AC95A292DAC655584BC87713A79F841
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=984663&extension=ts&play_token=AkeMwWONeF
-#EXTINF:-1 tvg-id="971711" group-title="Live FA, League Cup" tvg-logo="http://103.176.90.92/images/971711.png",08/08 09:00 PM | West Ham United vs Portsmouth (DE| SKY SPORT PREMIER LEAGUE FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AC95A292DAC655584BC87713A79F841
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=971711&extension=ts&play_token=AkPJ3rUSP7
-#EXTINF:-1 tvg-id="1235927" group-title="Live FA, League Cup" tvg-logo="http://103.176.90.92/images/1235927.png",08/08 09:00 PM | West Ham United vs Portsmouth (DE| SKY SPORT PREMIER LEAGUE FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AC95A292DAC655584BC87713A79F841
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1235927&extension=ts&play_token=sCKCXMUyQg
-#EXTINF:-1 tvg-id="1235920" group-title="Live FA, League Cup" tvg-logo="http://103.176.90.92/images/1235920.png",08/08 09:00 PM | West Ham United vs Portsmouth (DE| SKY SPORT PREMIER LEAGUE HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 8AC95A292DAC655584BC87713A79F841
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1235920&extension=ts&play_token=dmtl3Qg6pZ
 #EXTINF:-1 tvg-id="1862066" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://picons.cmshulk.com/picons/arenasport6.png",08/08 09:00 PM | Brighton H.A. vs Roma (BA| ARENA SPORT 6 ⱽᴵᴾ ᴿᴬᵂ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
