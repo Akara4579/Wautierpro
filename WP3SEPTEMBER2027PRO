@@ -3757,6 +3757,26 @@ BG BARU https://i.imgur.com/3GVkoob.gif
 VTV COVER https://i.imgur.com/oZl4oNH.jpeg
 
 ===================
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=Trans TV
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name=""  tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="NASIONAL",TRANS TV (🚀8926)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visionplus.fazznet.my.id/license?ch=Trans 7
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name=""  tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="NASIONAL",TRANS 7 (🚀8926)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 #EXTINF:-1 tvg-id="Id Antv" tvg-name="Antv (🚀7926)" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="NASIONAL",Antv (🚀7926)
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302206
 #EXTINF:-1 tvg-id="Id Berita Satu" tvg-name="Berita Satu (🚀7926)" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="NASIONAL",Berita Satu (🚀7926)
@@ -8657,6 +8677,36 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+
+
+BEIN INDO
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=122&type=fitnah
+#####KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=122
+###KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=122.play
+#EXTINF:-1 tvg-id="beIN.Sports.1.id" tvg-name="beIN Sports" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE",BEIN SPORTS 1 (🚀9926)
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=123&type=fitnah
+#####KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=123
+###KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=123.play
+#EXTINF:-1 tvg-id="beIN.Sports.2.id" tvg-name="beIN Sports 2"tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE",BEIN SPORTS 2 (🚀9926)
+
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=124&type=fitnah
+#####KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=124
+###KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=124.play
+#EXTINF:-1 tvg-id="beIN.Sports.3.id" tvg-name="beIN Sports 3" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE",BEIN SPORTS 3 (🚀9926)
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 ====================================================================================================================================================================
 ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR
 ============================================================ALLINONEBAR=============================================================================================
@@ -14592,8 +14642,6 @@ as
 
 
 sdd
-
-
 
 
 
